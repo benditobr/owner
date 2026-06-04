@@ -9,6 +9,7 @@ i. Este manual define as diretrizes centrais da marca Bendito e estabelece como 
 ii. A Bendito não é apenas uma marca de produto. É uma marca pensada para operar em ambiente compartilhado, dentro de estabelecimentos parceiros, em contextos de co-branding e, futuramente, em formatos licenciados. Por isso, sua gestão exige mais disciplina do que a de uma marca que vive apenas em canal próprio.
 
 iii. Toda manifestação da Bendito deve reforçar uma ideia central: a Bendito melhora o cardápio, melhora a percepção e melhora a experiência.
+
 ---
 
 POSICIONAMENTO
