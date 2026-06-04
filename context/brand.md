@@ -2,7 +2,7 @@ Documento interno de Marca
 Última atualização: Abril 2026
 
 ---
-INTRODUÇÃO
+## INTRODUÇÃO
 
 i. Este manual define as diretrizes centrais da marca Bendito e estabelece como ela deve ser percebida, aplicada e protegida em todos os seus contextos de atuação.
 
@@ -12,7 +12,7 @@ iii. Toda manifestação da Bendito deve reforçar uma ideia central: a Bendito 
 
 ---
 
-POSICIONAMENTO
+## POSICIONAMENTO
 
 i. A Bendito atua no território do bem-estar alimentar contemporâneo, mas não deve ser posicionada como uma opção funcional genérica nem como mais uma marca de açaí com estética limpa. Seu lugar é mais ambicioso e mais preciso.
 
@@ -22,7 +22,7 @@ iii. O consumidor não deve enxergá-la como concessão, nem como item técnico,
 
 ---
 
-DEFINIÇÃO ESTRATÉGICA
+## DEFINIÇÃO ESTRATÉGICA
 
 i. A Bendito é uma marca de bem-estar alimentar construída para gerar demanda direta e ser distribuída com escala por parceiros. Essa definição é importante porque impede dois erros: tratá-la como simples marca de produto e tratá-la como simples marca de trade.
 
@@ -31,7 +31,7 @@ ii. A Bendito precisa ser entendida como marca de preferência, uma marca que o 
 iii. Seu desenho estratégico não é o de uma marca que o parceiro explica ao cliente, mas o de uma marca que o cliente já quer encontrar no parceiro. Essa distinção é central para proteger valor percebido e evitar que a Bendito caia no lugar comum das marcas que entram pelo canal sem consolidar força simbólica própria.
 
 ---
-TERRITÓRIO DE MARCA
+## TERRITÓRIO DE MARCA
 
 i. O território da Bendito está na interseção entre bem-estar, desejo, clareza e rotina. A marca em nenhuma hipótese deve operar em extremos.
 
@@ -45,7 +45,7 @@ v. A marca precisa parecer uma escolha melhor, e não uma obrigação melhor.
 
 ---
 
-PAPEL DA MARCA
+## PAPEL DA MARCA
 i. O papel da marca Bendito é criar tração simbólica no consumidor final. Isso significa que sua primeira obrigação não é decorar o produto nem sofisticar o PDV, mas formar repertório, gerar reconhecimento e construir preferência.
 
 ii. A marca precisa fazer com que as pessoas saibam o que Bendito representa antes mesmo de pensar em onde comprá-la. Quando isso acontece, o canal ganha nova função: ele deixa de ser espaço de tentativa e vira espaço de captura.
@@ -54,7 +54,7 @@ iii. A Bendito, portanto, deve agir como motor de desejo, de lembrança e de ide
 
 ---
 
-DIFERENCIAL
+## DIFERENCIAL
 
 i. O diferencial da Bendito está na combinação entre clareza estética, consistência simbólica e capacidade de criar desejo sem recorrer a exagero.
 
@@ -64,7 +64,7 @@ iii. Seu diferencial não está em parecer mais técnica, mais divertida ou mais
 
 ---
 
-PROMESSA DE MARCA
+## PROMESSA DE MARCA
 
 i. A promessa da Bendito é oferecer uma experiência de bem-estar desejável e repetível, capaz de caber na rotina sem perder valor percebido. Para o consumidor, isso significa segurança, gosto, consistência e identificação. Para o parceiro, significa poder contar com uma marca que já carrega procura, que melhora a imagem do ponto e que agrega valor ao cardápio.
 
@@ -74,7 +74,7 @@ iii. Quanto menos a Bendito parecer estar se vendendo, mais forte será sua cons
 
 ---
 
-ESSÊNCIA
+## ESSÊNCIA
 
 i. A essência da Bendito é ser uma marca que as pessoas querem encontrar. Essa formulação é mais estratégica do que parece: ela significa que a Bendito deve nascer como objeto de procura, e não apenas como objeto de exposição.
 
@@ -84,7 +84,7 @@ iii. A Bendito não busca apenas disponibilidade. Busca relevância, lembrança 
 
 ---
 
-PERSONALIDADE
+## PERSONALIDADE
 
 i. A personalidade da Bendito deve combinar confiança, leveza, sofisticação e nitidez. A marca precisa soar contemporânea sem parecer ansiosa por juventude, próxima sem excessiva intimidade, refinada sem ostentação e desejável sem afetação.
 
@@ -94,7 +94,7 @@ iii. A Bendito deve transmitir a sensação de que pertence à rotina de pessoas
 
 ---
 
-TOM DE VOZ
+## TOM DE VOZ
 
 i. O tom de voz da Bendito deve ser claro, elegante e seguro. A marca fala com proximidade, mas não precisa parecer íntima demais para ser relevante.
 
@@ -106,7 +106,7 @@ iv. Sempre que a Bendito falar, o resultado ideal deve ser o de uma marca compre
 
 ---
 
-IDENTIDADE VISUAL
+## IDENTIDADE VISUAL
 
 i. A identidade visual da Bendito deve comunicar controle, frescor, respiro e desejo. Sua grande tarefa não é apenas se diferenciar visualmente da categoria, mas materializar a sensação de uma marca que já nasce com autoridade estética própria.
 
@@ -116,7 +116,7 @@ iii. Isso vale tanto no produto quanto nas ativações, nas redes, nos materiais
 
 ---
 
-RELAÇÃO COM O CONSUMIDOR
+## RELAÇÃO COM O CONSUMIDOR
 
 i. A Bendito deve tratar a relação com o consumidor final como prioridade estratégica. Isso significa que branding, narrativa, ativação, imagem e repertório não são camadas secundárias de apoio comercial, mas o centro da construção de valor da empresa.
 
@@ -126,7 +126,7 @@ iii. Essa relação não pode ser construída apenas com presença digital ou es
 
 ---
 
-RELAÇÃO COM O PARCEIRO
+## RELAÇÃO COM O PARCEIRO
 
 i. Na relação com o parceiro, a marca deve se apresentar como ativo de demanda, e não apenas como item de mix. O parceiro precisa perceber que a Bendito carrega força própria, que ajuda a qualificar o ponto de venda e que pode ser vendida com mais potência porque já existe procura direta.
 
@@ -136,7 +136,7 @@ iii. Quanto mais a marca construir valor diretamente no consumidor, mais o parce
 
 ---
 
-RESTRIÇÕES DE COMUNICAÇÃO
+## RESTRIÇÕES DE COMUNICAÇÃO
 
 i. A Bendito deve evitar toda comunicação que reduza sua força simbólica. Isso inclui apelo excessivo a preço, urgência artificial, claims inflados de saúde, visual promocional de baixa leitura e qualquer linguagem que transforme a marca em mais uma opção oportunista ou opere minimamente contra os princípios da Bendito.
 
@@ -146,7 +146,7 @@ iii. O ponto de equilíbrio é fundamental. A Bendito precisa ser clara sem ser 
 
 ---
 
-GESTÃO DE CRISE E RESPOSTA
+## GESTÃO DE CRISE E RESPOSTA
 
 i. A Bendito deve responder ao mercado com maturidade e controle, porque marcas que pretendem construir valor direto com o consumidor não podem oscilar emocionalmente em público.
 
@@ -156,7 +156,7 @@ iii. A Bendito nunca deve parecer reativa, desorganizada ou insegura. Sua respos
 
 ---
 
-DISPOSIÇÃO FINAL
+## DISPOSIÇÃO FINAL
 
 i. A Bendito deve ser construída como uma marca que cria desejo primeiro e disponibilidade depois. Toda sua arquitetura de branding precisa servir a esse princípio.
 
