@@ -3,7 +3,7 @@ Documento interno de Direção
 
 ---
 
-MISSÃO
+## MISSÃO
 
 i. Construir uma marca brasileira de bem-estar alimentar desejada diretamente pelo consumidor, capaz de transformar uma escolha cotidiana em um gesto de valor, confiança e identidade.
 
@@ -13,7 +13,7 @@ iii. Ocupar um lugar relevante na rotina de consumo por meio da construção de 
 
 ---
 
-VISÃO
+## VISÃO
 
 i. Tornar-se a principal referência nacional em bem-estar alimentar com presença distribuída por parceiros, mas legitimada principalmente pela procura espontânea do consumidor.
 
@@ -23,7 +23,7 @@ iii. O objetivo não é apenas estar em muitos pontos, mas fazer com que a Bendi
 
 ---
 
-NORTE
+## NORTE
 
 i. O norte da Bendito é construir valor de marca antes de buscar amplitude de distribuição.
 
@@ -35,7 +35,7 @@ iv. Crescer do jeito certo significa consolidar primeiro a força simbólica da 
 
 ---
 
-PROPÓSITO
+## PROPÓSITO
 
 i. O propósito da Bendito é tornar o bem-estar alimentar algo mais desejável, mais próximo e mais presente na vida real das pessoas, sem transformar saúde em rigidez, sem transformar conveniência em banalidade e sem transformar marca em mero adereço de produto.
 
@@ -45,7 +45,7 @@ iii. Esse propósito não se esgota no ato de vender uma bebida. Ele se expressa
 
 ---
 
-PRINCÍPIO
+## PRINCÍPIO
 
 i. O princípio central da Bendito é que a marca deve ser construída primeiro como desejo e só depois como distribuição. Isso reorganiza a lógica do negócio.
 
@@ -55,7 +55,7 @@ iii. Sempre que houver dúvida entre um caminho que amplia presença, mas enfraq
 
 ---
 
-VALORES INEGOCIÁVEIS
+## VALORES INEGOCIÁVEIS
 
 i. Bem-estar como prioridade
 Todas as decisões da Bendito consideram, obrigatoriamente, o impacto na saúde, na qualidade de vida e na experiência de clientes e colaboradores. É expressamente proibido tomar decisões de produto, operação ou comunicação que contradigam este valor, mesmo sob pressão comercial ou financeira.
@@ -74,7 +74,7 @@ A rentabilidade é essencial para a sustentabilidade do negócio e deve ser pers
 
 ---
 
-O QUE A BENDITO É
+## O QUE A BENDITO É
 
 i. A Bendito é uma marca de bem-estar alimentar construída para gerar demanda própria e ser distribuída com eficiência por meio de parceiros. Não é uma distribuidora com branding nem uma operação dependente do ponto de venda para existir.
 
@@ -84,7 +84,7 @@ iii. Mesmo operando majoritariamente no B2B, a Bendito deve agir desde o início
 
 ---
 
-O QUE A BENDITO NÃO É
+## O QUE A BENDITO NÃO É
 
 i. A Bendito não é uma marca genérica de açaí.
 
@@ -96,7 +96,7 @@ IV. O que a empresa precisa evitar, acima de tudo, é qualquer forma de constru�
 
 ---
 
-TESE ESTRATÉGICA
+## TESE ESTRATÉGICA
 
 i. A empresa deve construir primeiro uma marca que o consumidor reconhece, deseja e procura, para então usar o B2B como mecanismo de distribuição dessa procura. Isso significa que o ativo principal do negócio não é apenas a bebida pronta e lacrada, mas a capacidade de fazer com que o cliente queira Bendito como marca, e não apenas como categoria.
 
@@ -112,7 +112,7 @@ vi. A quarta fase abre espaço para formatos mais amplos de exploração de bran
 
 ---
 
-GATILHOS DE FASE
+## GATILHOS DE FASE
 
 i. A Bendito só deve avançar de fase quando houver prova concreta de que a marca está se tornando procurada e repetida, e não apenas comprada por oportunidade.
 
@@ -122,7 +122,7 @@ iii. O canal é importante, mas não deve ser usado como ilusão de validação.
 
 ---
 
-DISPOSIÇÃO FINAL
+## DISPOSIÇÃO FINAL
 
 i. A Bendito deve ser construída como uma marca que nasce no consumidor e escala no parceiro. Essa ordem não é detalhe operacional; ela define a qualidade futura do negócio.
 
