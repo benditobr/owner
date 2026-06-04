@@ -94,11 +94,9 @@ iii. Também não é uma marca cuja identidade existe apenas no ponto de venda o
 
 IV. O que a empresa precisa evitar, acima de tudo, é qualquer forma de construção que a reduza a commodity com comunicação bonita.
 
-
+---
 
 TESE ESTRATÉGICA
-
----
 
 i. A empresa deve construir primeiro uma marca que o consumidor reconhece, deseja e procura, para então usar o B2B como mecanismo de distribuição dessa procura. Isso significa que o ativo principal do negócio não é apenas a bebida pronta e lacrada, mas a capacidade de fazer com que o cliente queira Bendito como marca, e não apenas como categoria.
 
@@ -112,11 +110,9 @@ v. A terceira fase permite transformar essa demanda já formada em presença mai
 
 vi. A quarta fase abre espaço para formatos mais amplos de exploração de brand, licenciamento e presença própria, agora apoiados em uma marca que já nasce pedida e não apenas distribuída.
 
-
+---
 
 GATILHOS DE FASE
-
----
 
 i. A Bendito só deve avançar de fase quando houver prova concreta de que a marca está se tornando procurada e repetida, e não apenas comprada por oportunidade.
 
@@ -124,11 +120,9 @@ ii. Os sinais realmente relevantes não são apenas número de parceiros ou fatu
 
 iii. O canal é importante, mas não deve ser usado como ilusão de validação. Uma marca pode estar distribuída e ainda assim ser irrelevante. O que define maturidade estratégica, no caso da Bendito, é a transformação da presença em preferência e da preferência em recorrência.
 
-
+---
 
 DISPOSIÇÃO FINAL
-
----
 
 i. A Bendito deve ser construída como uma marca que nasce no consumidor e escala no parceiro. Essa ordem não é detalhe operacional; ela define a qualidade futura do negócio.
 
